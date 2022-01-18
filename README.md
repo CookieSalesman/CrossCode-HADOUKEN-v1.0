@@ -11,4 +11,6 @@ The way this mod has been written, it will be as compatible as possible, meaning
 Take a look at this better mod (https://github.com/Hsifnus/autumns-genesis)
 
 
+To be specific, it only modifies a few fire combat arts.
+
 Readme updated as of Q1 2022
