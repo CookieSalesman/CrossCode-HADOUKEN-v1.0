@@ -5,7 +5,7 @@ A mod for the game CrossCode; Lea yells various forms of HADOUKEN when casting a
 Installation is simple! simply drag \hadouken\ into \CrossCode\assets\mods\
 Requires CCloader, an equally simple-to-install mod. Link given for convenience (github.com/CCDirectLink/CCLoader). This mod is easily toggleable through the options menu.
 
-It has been written to be as compatible as possible (ACAP)!
+The way this mod has been written, it will be as compatible as possible, meaning it is extraordinarly unlikely to cause any conflict.
 
 
 Take a look at this better mod (https://github.com/Hsifnus/autumns-genesis)
