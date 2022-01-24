@@ -1,5 +1,6 @@
 # CrossCode-HADOUKEN-v1.0
 A mod for the game CrossCode; Lea yells various forms of HADOUKEN or SHORYUKEN when casting appropriate combat arts. Video demo coming soon (24-48 hrs). I suggest just seeing if it makes you laugh a bit when used.
+
 Showcase: youtu.be/6F0D6_hfezU
 
 Installation is simple! simply drag \hadouken\ into \CrossCode\assets\mods\
